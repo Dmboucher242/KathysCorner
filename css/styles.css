@@ -3,13 +3,12 @@
     margin-left: 35%;
     font-family: 'Smooch Sans', sans-serif;
     font-size: xx-large;
+    position: sticky;
 }
-
 
 h2{
     text-align: center;
     padding-bottom: 70px;
-    /* font-family: 'Smooch Sans', sans-serif; */
     font-size: xx-large;
 }
 
@@ -29,7 +28,6 @@ h2{
 }
 
 .page{
-    /* background-color:#a3842c; */
     background-color: #f8f0e3;
     height: 100%;
     width: 100%;
@@ -74,11 +72,10 @@ h1{
     border-style: solid;
     border-radius: 24px;
     border-color: #343515;
-    ;
 }
 
 hr{
-    color: #343515;
+    background-color: #343515;
 }
 
 .darkleaf{
@@ -92,5 +89,4 @@ hr{
     margin-top: -40%;
     padding-bottom: 459px;
     color: #f8f0e3;
-    /* font-family: 'Smooch Sans', sans-serif; */
 }

@@ -9,7 +9,7 @@
 h2{
     text-align: center;
     padding-bottom: 70px;
-    /* font-family: 'Smooch Sans', sans-serif; */
+    font-family: 'Smooch Sans', sans-serif;
     font-size: xx-large;
 }
 
@@ -29,42 +29,9 @@ h2{
 }
 
 .page{
-    /* background-color:#a3842c; */
     background-color: #f8f0e3;
     height: 100%;
     width: 100%;
-}
-
-.whatwedo{
-    font-family: 'Smooch Sans', sans-serif;
-    font-size: x-large;
-    text-align: center;
-    width: 40%;
-    margin-left: 5%;
-    margin-top: 2%;
-}
-
-.howwedoit{
-    font-family: 'Smooch Sans', sans-serif;
-    font-size: x-large;
-    text-align: center;
-    width: 40%;
-    margin-left: 50%;
-}
-
-.whywedoit{
-    font-family: 'Smooch Sans', sans-serif;
-    font-size: x-large;
-    text-align: center;
-    width: 40%;
-    margin-left: 5%;
-}
-
-
-h1{
-    color: #343515;
-    font-family: 'Smooch Sans', sans-serif;
-    text-align: center;
 }
 
 .container{
@@ -74,23 +41,15 @@ h1{
     border-style: solid;
     border-radius: 24px;
     border-color: #343515;
-    ;
 }
 
 hr{
     color: #343515;
 }
 
-.darkleaf{
-    height: 100%;
-    width: 100%;
-}
-
-.header{
-    position: relative;
-    background: none;
-    margin-top: -40%;
-    padding-bottom: 459px;
-    color: #f8f0e3;
-    /* font-family: 'Smooch Sans', sans-serif; */
+.title-line{
+    width: 20%;
+    margin-top: -70px;
+    margin-bottom: 40px;
+    background-color: #343515;
 }
