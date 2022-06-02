@@ -44,3 +44,22 @@ hr{
     margin-bottom: 40px;
     background-color: #343515;
 }
+
+.card{
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: x-large;
+    background-color: red;
+}
+
+.card-title{
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: xx-large;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
