@@ -48,7 +48,6 @@ hr{
 .card{
     font-family: 'Smooch Sans', sans-serif;
     font-size: x-large;
-    background-color: red;
 }
 
 .card-title{
@@ -56,10 +55,6 @@ hr{
     font-size: xx-large;
 }
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 48
+.sun-icon{
+    color: red;
 }
