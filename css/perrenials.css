@@ -58,3 +58,8 @@ hr{
 .sun-icon{
     color: red;
 }
+
+.soil-icon, .sun-icon, .bloom-icon, .water-icon{
+    height: 30px;
+    width: 30px;
+}
